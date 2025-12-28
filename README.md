@@ -32,9 +32,9 @@ Task 2 focuses on converting a Bootstrap UI into a **template-based project** us
   npm run build
 
 ## ❓Guidance Taken
---I took guidance to understand:
--Node.js and npm setup
--Vite project structure
--Splitting HTML into Handlebars templates
--Fixing Vite preview issues
+- I took guidance to understand:
+- Node.js and npm setup
+- Vite project structure
+- Splitting HTML into Handlebars templates
+- Fixing Vite preview issues
 
